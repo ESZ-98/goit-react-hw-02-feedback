@@ -1,5 +1,5 @@
 import PropTypes from 'prop-types';
-import { Component } from 'react';
+import React, { Component } from 'react';
 import css from './Statistics.module.css';
 import Notification from 'components/Notification/Notification';
 
